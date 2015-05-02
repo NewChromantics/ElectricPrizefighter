@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: eed68db518cc34318b550db24f0da505
+timeCreated: 1430566482
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Chain
+    100002: Chain_Bone_1
+    100004: Chain_Bone_2
+    100006: Chain_Bone_3
+    100008: Chain_Bone_4
+    100010: Chain_Bone_Root
+    100012: PunchBag
+    100014: PunchBag_Deform_Bone
+    100016: PunchBag_Deform_Bone1
+    100018: PunchBag_Deform_Bone10
+    100020: PunchBag_Deform_Bone11
+    100022: PunchBag_Deform_Bone12
+    100024: PunchBag_Deform_Bone13
+    100026: PunchBag_Deform_Bone14
+    100028: PunchBag_Deform_Bone15
+    100030: PunchBag_Deform_Bone2
+    100032: PunchBag_Deform_Bone3
+    100034: PunchBag_Deform_Bone4
+    100036: PunchBag_Deform_Bone5
+    100038: PunchBag_Deform_Bone6
+    100040: PunchBag_Deform_Bone7
+    100042: PunchBag_Deform_Bone8
+    100044: PunchBag_Deform_Bone9
+    100046: PunchBag_Root
+    100048: //RootNode
+    400000: Chain
+    400002: Chain_Bone_1
+    400004: Chain_Bone_2
+    400006: Chain_Bone_3
+    400008: Chain_Bone_4
+    400010: Chain_Bone_Root
+    400012: PunchBag
+    400014: PunchBag_Deform_Bone
+    400016: PunchBag_Deform_Bone1
+    400018: PunchBag_Deform_Bone10
+    400020: PunchBag_Deform_Bone11
+    400022: PunchBag_Deform_Bone12
+    400024: PunchBag_Deform_Bone13
+    400026: PunchBag_Deform_Bone14
+    400028: PunchBag_Deform_Bone15
+    400030: PunchBag_Deform_Bone2
+    400032: PunchBag_Deform_Bone3
+    400034: PunchBag_Deform_Bone4
+    400036: PunchBag_Deform_Bone5
+    400038: PunchBag_Deform_Bone6
+    400040: PunchBag_Deform_Bone7
+    400042: PunchBag_Deform_Bone8
+    400044: PunchBag_Deform_Bone9
+    400046: PunchBag_Root
+    400048: //RootNode
+    4300000: Chain
+    4300002: PunchBag
+    9500000: //RootNode
+    13700000: Chain
+    13700002: PunchBag
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
